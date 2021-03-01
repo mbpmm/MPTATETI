@@ -1,6 +1,6 @@
-# MPTATETIRECU
+# MPTATETI
 
-Recuperatorio de Multiplayer 
+Final de Multiplayer 
 
 Profesor: Diego Dorado
 
